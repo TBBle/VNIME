@@ -1,0 +1,5 @@
+# Temporary editor files
+*.swp
+
+# Visual Studio temporary/local files
+.vs

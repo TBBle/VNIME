@@ -1,3 +1,10 @@
+Obsolete Project
+================
+
+Windows 10 1903 [introduced TELEX support to the built-in Vietnamese IME](https://answers.microsoft.com/en-us/windows/forum/all/telex-mode-for-vietnamese-keyboard-on-windows-10/744d4c2d-6d17-421e-ace0-d75e7ea7092d), so this project is now archived.
+
+It might be useful as a partial reference for anyone trying to work with one of the technologies (WinRT/C++ with CMake, or Text Services Framework).
+
 VNIME - Vietnamese IME for Windows
 ==================================
 
